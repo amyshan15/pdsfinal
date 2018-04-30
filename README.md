@@ -1,4 +1,9 @@
 # pdsfinal
+
+YouTube Data API KEY
+AIzaSyDI8cZyqHiXp1uh9zr5qPRKe4-bhhaPYUw
+
+
 data needed: viewcount, subscriber count over time
 
 categories: beauty, vlogs, gaming, food
