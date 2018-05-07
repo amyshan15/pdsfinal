@@ -20,14 +20,22 @@ Mon-Tues 5/7-5/8: video + finalization
 
 TODOs:
 -Some channels are not labeled
+
 -declining/growing prediction refining
+
 -small fixes with comments in code
+
 -comment count == 0 -> fix with per video lookup
+
 -more features
 
 LATER:
 -extract most important ones (PCA)
+
 -kmeans++
+
 -cross validation
+
 -visualization of features extracted
+
 -conclusion
